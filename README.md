@@ -4,6 +4,10 @@
 
 Launcher for Revelation Online NA/EU. This lets you start the game without needing to go through My.com Game Center.
 
+<h2 align="center">
+  <a href="https://webtorrent.io"><img src="https://cdn.rawgit.com/zeffy/ROLauncher/master/screenshot.png" alt="screenshot.png"></a>
+</h2>
+
 # Features
 
 * Auto-start the game after *n* seconds after you log in (you can edit this value in the `ROLauncher.exe.config` file under the `AutoLaunchDelayInSeconds` setting, the default is 5 seconds)
