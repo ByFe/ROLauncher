@@ -1,3 +1,5 @@
+### Note: I consider this project completely stable and usable, however keep in mind I have no plans to update it anymore if the auth protocol ever changes, because I quit playing RO. Feel free to fork the project, though!
+
 # ROLauncher
 
 Launcher for Revelation Online NA/EU. This lets you start the game without needing to go through My.com Game Center.
@@ -10,7 +12,7 @@ Launcher for Revelation Online NA/EU. This lets you start the game without needi
 
 # Disclaimer
 
-I have not personally had any actions taken against my account while developing and using this tool, however I take absolutely no responsibility if you get banned while using it.
+I have not had any actions taken against my account while developing and using this tool. However, I take absolutely no responsibility if you get banned while using it.
 
 ### Other findings
 
